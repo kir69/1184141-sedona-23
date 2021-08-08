@@ -1,0 +1,49 @@
+.form {
+  margin-bottom: 48px;
+}
+
+.form__item {
+  margin: 0;
+  padding: 0;
+
+  border: 0;
+}
+
+.form__header {
+  margin: 0;
+
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.form__legend {
+  padding-top: 20px;
+
+  font-size: 18px;
+  font-weight: 700;
+  color: $black;
+}
+
+.form__input {
+  font-size: 18px;
+  font-weight: 700;
+  color: $black;
+  text-transform: none;
+
+  border: none;
+  background-color: $lightgray;
+}
+
+.form__label--radio {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: none;
+  color: $black;
+}
+
+.form__label--checkbox {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: none;
+  color: $black;
+}

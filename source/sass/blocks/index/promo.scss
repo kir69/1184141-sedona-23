@@ -1,0 +1,38 @@
+.promo__header {
+  margin: 0;
+
+  font-family: $ptsans;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.promo__list {
+  margin: 0;
+  margin-top: 27px;
+  padding: 0;
+
+  list-style: none;
+}
+
+.promo__title {
+  margin: 0;
+
+  font-size: 18px;
+}
+
+.promo__text {
+  margin: 0;
+
+  line-height: 21px;
+}
+
+.promo__item {
+  background-color: $gray;
+}
+
+.promo__item:nth-child(1),
+.promo__item:nth-child(2) {
+  background-color: $blue;
+
+  color: $white;
+}
