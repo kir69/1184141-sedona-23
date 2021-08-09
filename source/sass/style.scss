@@ -9,32 +9,26 @@
 @import "global/normalize.scss";
 
 
-//Общие блоки
-@import "blocks/general/button.scss";
-@import "blocks/general/copyright.scss";
-@import "blocks/general/main-nav.scss";
-@import "blocks/general/page-footer.scss";
-@import "blocks/general/page-header.scss";
-@import "blocks/general/page-main.scss";
-@import "blocks/general/page-wrapper.scss";
-@import "blocks/general/page.scss";
-@import "blocks/general/social.scss";
-@import "blocks/general/visually-hidden.scss";
+//Блоки
+@import "blocks/advantages.scss";
+@import "blocks/button.scss";
+@import "blocks/copyright.scss";
+@import "blocks/form.scss";
+@import "blocks/gallery.scss";
+@import "blocks/hotel.scss";
+@import "blocks/intro.scss";
+@import "blocks/main-nav.scss";
+@import "blocks/map.scss";
+@import "blocks/modal-error.scss";
+@import "blocks/modal-success.scss";
+@import "blocks/modal.scss";
+@import "blocks/page-footer.scss";
+@import "blocks/page-header.scss";
+@import "blocks/page-main.scss";
+@import "blocks/page-wrapper.scss";
+@import "blocks/page.scss";
+@import "blocks/player.scss";
+@import "blocks/promo.scss";
+@import "blocks/social.scss";
+@import "blocks/video.scss";
 
-//Главная
-@import "blocks/index/advantages.scss";
-@import "blocks/index/hotel.scss";
-@import "blocks/index/intro.scss";
-@import "blocks/index/map.scss";
-@import "blocks/index/promo.scss";
-
-//Каталог
-@import "blocks/catalog/gallery.scss";
-@import "blocks/catalog/player.scss";
-@import "blocks/catalog/video.scss";
-
-//Форма
-@import "blocks/form/form.scss";
-@import "blocks/form/modal-error.scss";
-@import "blocks/form/modal-success.scss";
-@import "blocks/form/modal.scss";
