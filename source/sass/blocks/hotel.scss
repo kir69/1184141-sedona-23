@@ -1,0 +1,26 @@
+.hotel {
+  padding-top: 33px;
+  padding-bottom: 49px;
+}
+
+.hotel__title {
+  margin: 0;
+
+  font-size: 21px;
+  color: $black;
+}
+
+.hotel__text {
+  margin: 0;
+
+  line-height: 24px;
+}
+
+.hotel__link {
+  font-size: 21px;
+  color: $white;
+  font-weight: 700;
+
+  background-color: $blue;
+}
+
